@@ -1,6 +1,6 @@
 # Oil Spill Detection
 
-Trained a ResNet18 CNN to detect marine oil spills, implementing data augmentation techniques with Keras/Tensorflow, as part of the AI4ALL Ignite accelerator.
+Trained a ResNet-18 CNN to detect marine oil spills, implementing data augmentation techniques with Keras/Tensorflow, as part of the AI4ALL Ignite accelerator.
 
 ## Problem Statement <!--- do not change this line -->
 
@@ -9,13 +9,13 @@ We believe that computer vision technology can be used to mitigate the damage to
 
 ## Key Results <!--- do not change this line -->
 
-1. Used transfer learning to train a ResNet18 CNN on a 300-image dataset to classify oil spill imagery.
+1. Used transfer learning to train a ResNet-18 CNN on a 300-image dataset to classify oil spill imagery.
 2. Utilized image transformations to generate images based on pre-existing ones.
 3. Achieved ~86% validation accuracy after training.
 
 ## Methodologies <!--- do not change this line -->
 
-To accomplish this, we utilized the Keras ResNet18 model to classify images of water bodies with supervised learning. We designed our model to use image normalization to allow the model to identify patterns more easily. Other techniques we incorporated:
+To accomplish this, we utilized the Keras ResNet-18 model to classify images of water bodies with supervised learning. We designed our model to use image normalization to allow the model to identify patterns more easily. Other techniques we incorporated:
 - Image augmentation
 - Freezing layers
 - Early stopping
