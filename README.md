@@ -15,7 +15,7 @@ We believe that computer vision technology can be used to mitigate the damage to
 
 ## Methodologies <!--- do not change this line -->
 
-To accomplish this, we utilized the Keras ResNet-18 model to classify images of water bodies with supervised learning. We designed our model to use image normalization to allow the model to identify patterns more easily. Other techniques we incorporated:
+To accomplish this, we utilized the ResNet-18 model to classify images of water bodies with supervised learning. We designed our model to use image normalization to allow the model to identify patterns more easily. Other techniques we incorporated:
 - Image augmentation
 - Freezing layers
 - Early stopping
