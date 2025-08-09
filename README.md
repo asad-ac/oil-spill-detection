@@ -32,7 +32,7 @@ To accomplish this, we utilized the Keras ResNet-18 model to classify images of 
 - *pandas*
 - *PyTorch*
 - *Matplotlib*
-- *Numpy*
+- *NumPy*
 
 ## Authors <!--- do not change this line -->
 *This project was completed in collaboration with:*
