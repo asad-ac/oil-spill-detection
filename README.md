@@ -4,7 +4,7 @@ Trained a ResNet-18 CNN to detect marine oil spills, implementing data augmentat
 
 ## Problem Statement <!--- do not change this line -->
 
-Oil spills are deterimental to the environment. In the Deepwater Horizon oil spill, the largest oil spill in history, 4.9 million barrels (210 million gallons) of oil were released in the Gulf of Mexico. This oil spill alone is estimated to have killed up to 5 trillion fish, 84 thousand birds, and at least 59 thousand sea turtles (National Oceanic and Atmospheric Administration). 
+Oil spills are deterimental to the environment. For refernece in the Deepwater Horizon oil spill, the largest oil spill in history, 4.9 million barrels (210 million gallons) of oil were released in the Gulf of Mexico. This oil spill alone is estimated to have killed up to 5 trillion fish, 84 thousand birds, and at least 59 thousand sea turtles (National Oceanic and Atmospheric Administration). 
 We believe that computer vision technology can be used to mitigate the damage to wildlife by identifying images of oil spills, to help clean them up around the world.
 
 ## Key Results <!--- do not change this line -->
