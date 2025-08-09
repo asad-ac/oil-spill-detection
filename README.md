@@ -20,6 +20,7 @@ To accomplish this, we utilized the ResNet-18 model to classify images of water 
 - Early stopping
 - Dropout regularization
 - Differential learning rates: higher LR for new layers, lower for pre-trained
+- Learning rate scheduler
 
 ## Data Sources <!--- do not change this line -->
 
