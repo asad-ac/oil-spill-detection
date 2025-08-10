@@ -1,6 +1,6 @@
 # Oil Spill Detection
 
-Trained a ResNet-18 CNN to detect marine oil spills, implementing data augmentation techniques with Tensorflow.
+Trained a ResNet-18 CNN to detect marine oil spills, implementing data augmentation techniques with TensorFlow.
 ## Problem Statement <!--- do not change this line -->
 
 Oil spills are deterimental to the environment. For reference, in the Deepwater Horizon oil spill (the largest oil spill in history) 4.9 million barrels (210 million gallons) of oil were released in the Gulf of Mexico. This oil spill alone is estimated to have killed up to 5 trillion fish, 84 thousand birds, and at least 59 thousand sea turtles (National Oceanic and Atmospheric Administration). 
