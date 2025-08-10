@@ -29,9 +29,9 @@ To accomplish this, we utilized the ResNet-18 model to classify images of water 
 
 - *Python*
 - *pandas*
+- *NumPy*
 - *PyTorch*
 - *Matplotlib*
-- *NumPy*
 
 ## Authors <!--- do not change this line -->
 *This project was completed in collaboration with:*
