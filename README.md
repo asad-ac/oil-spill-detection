@@ -1,10 +1,9 @@
 # Oil Spill Detection
 
-Trained a ResNet-18 CNN to detect marine oil spills, implementing data augmentation techniques with TensorFlow.
+Trained a ResNet-18 convolutional neural network (CNN) to detect marine oil spills, implementing data augmentation techniques with TensorFlow.
 ## Problem Statement <!--- do not change this line -->
 
-Oil spills are detrimental to the environment. For reference, in the Deepwater Horizon oil spill (the largest oil spill in history) 4.9 million barrels (210 million gallons) of oil were released in the Gulf of Mexico. This oil spill alone is estimated to have killed up to 5 trillion fish, 84 thousand birds, and at least 59 thousand sea turtles (National Oceanic and Atmospheric Administration). 
-We believe that computer vision technology can be used to mitigate the damage to wildlife by identifying images of oil spills as well as improve tourism, shipping, and the fishing industry.
+Oil spills are detrimental to the environment. For reference, in the Deepwater Horizon oil spill (the largest oil spill in history) 4.9 million barrels (210 million gallons) of oil were released in the Gulf of Mexico. This oil spill alone is estimated to have killed up to 5 trillion fish, 84 thousand birds, and at least 59 thousand sea turtles (National Oceanic and Atmospheric Administration). We believe computer vision technology can help mitigate wildlife damage by identifying oil spill images, while also supporting tourism, shipping, and the fishing industry.
 
 ## Key Results <!--- do not change this line -->
 
