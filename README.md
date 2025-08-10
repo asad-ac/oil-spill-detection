@@ -7,8 +7,8 @@ Oil spills have caused severe harm to the environment. For reference, in the Dee
 
 ## Key Results <!--- do not change this line -->
 
-1. Used transfer learning to train a ResNet-18 CNN on a 300-image dataset to classify oil spill imagery.
-2. Utilized image transformations to generate images based on pre-existing ones.
+1. Used transfer learning to train a ResNet-18 CNN on a 300 image dataset to classify oil spill imagery.
+2. Applied image transformations (augmentation) to create varied training samples from existing images.
 3. Achieved ~86% validation accuracy after training.
 
 ## Methodologies <!--- do not change this line -->
