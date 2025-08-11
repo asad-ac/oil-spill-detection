@@ -20,7 +20,7 @@ Oil spills have continued to cause severe and lasting damage to the environment.
 
 ResNet-18 model predicted no oil spill correctly
 
-#
+##
 
 <img width="70%" height="70%" alt="ResNet-18 model predicted an oil spill correctly while testing" src="https://github.com/user-attachments/assets/30477691-a0a9-45a0-9456-1e43c18bc241" />
 
