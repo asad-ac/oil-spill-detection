@@ -16,8 +16,8 @@ We believe <strong> computer vision technology </strong> can help mitigate wildl
 ## Key Results <!--- do not change this line -->
 
 1. Trained a ResNet-18 CNN using transfer learning on a **300-image marine oil spill dataset**. 
-2. Enhanced dataset diversity by applying image augmentation techniques (flips, color adjustments, resizing) <br> to generate varied training samples from existing         images.
-3. Achieved ~**86% validation accuracy** correctly classifying most oil spill and non-oil spill images.
+2. Enhanced dataset diversity by applying image augmentation techniques (flips, color adjustments, resizing) to generate varied training samples from existing         images.
+3. Achieved ~**86% validation accuracy**, correctly classifying most oil spill and non-oil spill images.
 
 ## Model Predicting User Uploaded Images
 
@@ -37,8 +37,13 @@ We believe <strong> computer vision technology </strong> can help mitigate wildl
 
 <img width="512" height="425" alt="image" src="https://github.com/user-attachments/assets/945e077f-7018-4c2f-8c02-46295c438d33" />
 
-> Correctly classified most **Oil Spill** and **No Oil Spill** images.
+>  Correctly classified most oil spill and no oil spill images (~86% validation accuracy).
 
+## Classification Report
+
+<img width="1056" height="384" alt="Precision, recall, and F1-score for Oil Spill and No Oil Spill classes; achieved 82.22% test accuracy and +32.22% improvement over baseline" src="https://github.com/user-attachments/assets/e5296428-1b7a-42ce-8d79-12f39c47e5c2" />
+
+> Precision, recall, and F1-score for Oil Spill and No Oil Spill classes; achieved 82.22% test accuracy and +32.22% improvement over baseline.
 
 
 ## Methodologies <!--- do not change this line -->
@@ -59,7 +64,6 @@ To accomplish this, we utilized the ResNet-18 model to classify images of water 
 [Marine Oil Spill Detection Dataset](https://www.kaggle.com/datasets/afzalofficial/marine-oil-spill-detection) <br>
 <br>
 [NOAA statistics on Deepwater Horizon](https://oceanservice.noaa.gov/education/tutorial-coastal/oil-spills/os04.html)
-
 
 ## Technologies Used <!--- do not change this line -->
 
