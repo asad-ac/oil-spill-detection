@@ -71,7 +71,7 @@ Techniques that were incorporated:
 
 ## Data Sources <!--- do not change this line -->
 
-[Marine Oil Spill Detection Dataset](https://www.kaggle.com/datasets/afzalofficial/marine-oil-spill-detection)
+[Marine Oil Spill Detection Dataset](https://www.kaggle.com/datasets/afzalofficial/marine-oil-spill-detection) <br>
 <br>
 [NOAA statistics on Deepwater Horizon](https://oceanservice.noaa.gov/education/tutorial-coastal/oil-spills/os04.html)
 
