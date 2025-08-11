@@ -32,6 +32,12 @@ We believe <strong> computer vision technology </strong> can help mitigate wildl
 
 > ResNet-18 model predicting **Oil Spill** correctly.
 
+<br>
+
+<img width="512" height="425" alt="image" src="https://github.com/user-attachments/assets/945e077f-7018-4c2f-8c02-46295c438d33" />
+
+> Shows correct classification of most **Oil Spill** and **No Oil Spill** images after applying transfer learning and fine-tuning.
+
 
 
 ## Methodologies <!--- do not change this line -->
