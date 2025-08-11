@@ -13,11 +13,11 @@ _(Source: National Oceanic and Atmospheric Administration)_
 
 We believe <strong> computer vision technology </strong> can help mitigate wildlife damage by identifying oil spills in water body images, while also supporting tourism, shipping, and the fishing industry.
 
-## Key Results <!--- do not change this line -->
+## Key Results <!--- do not change this line --> Enhanced dataset diversity through image augmentation (flips, color changes, resizing).
 
-1. Used transfer learning to train a ResNet-18 CNN on a 300 image dataset to classify oil spill imagery.
-2. Applied image transformations (augmentation) to create varied training samples from existing images.
-3. Achieved ~**86%** validation accuracy.
+1. Trained a ResNet-18 CNN using transfer learning on a 300-image marine oil spill dataset. 
+2. Enhanced dataset diversity through image augmentation (flips, color changes, resizing) to create varied training samples from existing images.
+3. Achieved ~**86% validation accuracy** correctly classifying most oil spill and non-oil spill images.
 
 ## Model Predicting User Uploaded Images
 
