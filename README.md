@@ -48,7 +48,9 @@ We believe <strong> computer vision technology </strong> can help mitigate wildl
 
 ## Methodologies <!--- do not change this line -->
 
-To accomplish this, we utilized the ResNet-18 model to classify images of water bodies with supervised learning. Techniques that were incorporated:
+To accomplish this, we utilized the ResNet-18 model to classify images of water bodies with supervised learning. 
+
+Techniques that were incorporated:
 
 - **Transfer Learning**: Pretrained on ImageNet, replacing the final layer for binary classification.
 - **Image Normalization**: Improved feature extraction and pattern recognition.
