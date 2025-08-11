@@ -6,9 +6,9 @@ Trained a <strong> ResNet-18 convolutional neural network (CNN) </strong> to det
 Oil spills have continued to cause severe and lasting damage to the environment. For reference, in the Deepwater Horizon oil spill (the largest oil spill in history) **4.9 million barrels** (210 million gallons) of oil were released in the Gulf of Mexico.
 
 This disaster alone is estimated to have killed:
-- Up to 5 trillion fish
-- 84,000 birds
-- At least 59,000 sea turtles <br>
+- Up to **5 trillion** fish
+- **84,000** birds
+- At least **59,000** sea turtles <br>
 _(Source: National Oceanic and Atmospheric Administration)_
 
 We believe <strong> computer vision technology </strong> can help mitigate wildlife damage by identifying oil spills in water body images, while also supporting tourism, shipping, and the fishing industry.
@@ -17,7 +17,7 @@ We believe <strong> computer vision technology </strong> can help mitigate wildl
 
 1. Used transfer learning to train a ResNet-18 CNN on a 300 image dataset to classify oil spill imagery.
 2. Applied image transformations (augmentation) to create varied training samples from existing images.
-3. Achieved ~86% validation accuracy.
+3. Achieved ~**86%** validation accuracy.
 
 ## Model Predicting User Uploaded Images
 
@@ -37,7 +37,7 @@ We believe <strong> computer vision technology </strong> can help mitigate wildl
 
 <img width="512" height="425" alt="image" src="https://github.com/user-attachments/assets/945e077f-7018-4c2f-8c02-46295c438d33" />
 
-> Shows correct classification of most **Oil Spill** and **No Oil Spill** images after applying transfer learning and fine-tuning.
+> Correctly classified most **Oil Spill** and **No Oil Spill** images.
 
 
 
