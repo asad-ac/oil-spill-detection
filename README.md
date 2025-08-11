@@ -33,13 +33,15 @@ We believe <strong> computer vision technology </strong> can help mitigate wildl
 
 ## Confusion Matrix
 
-<img width="512" height="425" alt="image" src="https://github.com/user-attachments/assets/945e077f-7018-4c2f-8c02-46295c438d33" />
+<img width="512" height="425" alt="confusion matrix" src="https://github.com/user-attachments/assets/945e077f-7018-4c2f-8c02-46295c438d33" />
+
+
 
 > Correctly classified most oil spill and no oil spill images (~86% validation accuracy).
 
 ## Classification Report
 
-<img width="1056" height="384" alt="Precision, recall, and F1-score for Oil Spill and No Oil Spill classes; achieved 82.22% test accuracy and +32.22% improvement over baseline" src="https://github.com/user-attachments/assets/e5296428-1b7a-42ce-8d79-12f39c47e5c2" />
+<img width="1012" height="374" alt="precision, recall, F1-score, and support" src="https://github.com/user-attachments/assets/c6e8206c-d858-4310-a6d7-6036cc7fd296" />
 
 > Shows precision, recall, and F1-score for oil spill and no oil spill classes.
 
