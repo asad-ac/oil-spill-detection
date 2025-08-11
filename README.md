@@ -60,7 +60,7 @@ Techniques that were incorporated:
 - **Dropout Regularization**: Prevent overfitting.
 - **Early Stopping**: Prevented unnecessary training once performance plateaued. Specifically, if it didn't improve for seven epochs.
 - **Differential Learning Rates**: Higher LR for new layers, lower for pretrained ones.
-- **Learning Rate Scheduler**: Adjusted LR during training for stability.
+- **Learning Rate Scheduler**: Adjusted LR during training for stability (if no improvement in 3 epochs cut learning rate in half).
 
 ## Limitations & Future Work
 - **Dataset Size & Diversity**: Limited image diversity (mostly ocean scenes) could bias predictions.
