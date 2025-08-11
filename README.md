@@ -59,6 +59,14 @@ To accomplish this, we utilized the ResNet-18 model to classify images of water 
 - **Differential Learning Rates**: Higher LR for new layers, lower for pretrained ones.
 - **Learning Rate Scheduler**: Adjusted LR during training for stability.
 
+## Limitations & Future Work
+- Dataset Size & Diversity: Limited image diversity (mostly ocean scenes) could bias predictions.
+- Class Imbalance: Some oil spill images contain text overlays, which may influence results.
+- Future Improvements:
+  - Expand dataset with varied water body types and conditions.
+  - Revisit ResNet-50 again to improve accuracy.
+  - Deploy as a web app for real-time oil spill detection.
+
 ## Data Sources <!--- do not change this line -->
 
 [Marine Oil Spill Detection Dataset](https://www.kaggle.com/datasets/afzalofficial/marine-oil-spill-detection) <br>
