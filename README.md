@@ -58,7 +58,7 @@ Techniques that were incorporated:
 - **Image Augmentation**: Increased dataset variety via flips, color changes, and resizing.
 - **Freezing Layers**: Preserved pretrained knowledge while fine-tuning top layers and saving memory.
 - **Dropout Regularization**: Prevent overfitting.
-- **Early Stopping**: Prevented unnecessary training once performance plateaued. Specifically, if it didn't improve for seven epochs.
+- **Early Stopping**: Prevented unnecessary training once performance plateaued. Specifically, if it didn't improve for 7 epochs.
 - **Differential Learning Rates**: Higher LR for new layers, lower for pretrained ones.
 - **Learning Rate Scheduler**: Adjusted LR during training for stability (if no improvement in 3 epochs cut learning rate in half).
 
