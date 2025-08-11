@@ -23,13 +23,13 @@ We believe <strong> computer vision technology </strong> can help mitigate wildl
 
 <img width="70%" height="70%" alt="ResNet-18 model predicted no oil spill correctly while testing" src="https://github.com/user-attachments/assets/0d9f60fa-6b80-44bf-8b29-c41c578f019d" />
 
-> **Prediction:** No Oil Spill ✅ 
+> **Prediction:** No Oil Spill correctly 
 
 <br>
 
 <img width="70%" height="70%" alt="ResNet-18 model predicted an oil spill correctly while testing" src="https://github.com/user-attachments/assets/30477691-a0a9-45a0-9456-1e43c18bc241" />
 
-> **Prediction:** Oil Spill ✅ 
+> **Prediction:** Oil Spill correctly
 
 <br>
 
