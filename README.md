@@ -55,11 +55,17 @@ Techniques that were incorporated:
 - **Transfer Learning**: Pretrained on ImageNet, replacing the final layer for binary classification.
   
 - **Image Normalization**: Scaled RGB values between 0 and 1, then applied ImageNet mean and standard deviation for each channel to match ResNet-18’s pretrained input distribution.
+  
 - **Image Augmentation**: Increased dataset variety via flips, color changes, and resizing.
+  
 - **Freezing Layers**: Preserved pretrained knowledge while fine-tuning top layers and saving memory.
+  
 - **Dropout Regularization**: Prevent overfitting.
+  
 - **Early Stopping**: Prevented unnecessary training once performance plateaued. Specifically, if it didn't improve for 7 epochs.
+  
 - **Differential Learning Rates**: Higher LR for new layers, lower for pretrained ones.
+  
 - **Learning Rate Scheduler**: Adjusted LR during training for stability (if no improvement in 3 epochs cut learning rate in half).
 
 ## Limitations & Future Work
