@@ -58,7 +58,7 @@ To accomplish this, we utilized the ResNet-18 model to classify images of water 
 
 [Marine Oil Spill Detection Dataset](https://www.kaggle.com/datasets/afzalofficial/marine-oil-spill-detection) <br>
 <br>
-[NOAA statistics on Deepwater Horizon](https://oceanservice.noaa.gov/education/tutorial-coastal/oil-spills/os04.html?utm_source=chatgpt.com)
+[NOAA statistics on Deepwater Horizon](https://oceanservice.noaa.gov/education/tutorial-coastal/oil-spills/os04.html)
 
 
 ## Technologies Used <!--- do not change this line -->
