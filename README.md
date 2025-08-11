@@ -31,6 +31,7 @@ Oil spills have continued to cause severe and lasting damage to the environment.
 To accomplish this, we utilized the ResNet-18 model to classify images of water bodies with supervised learning. We designed our model to use image normalization to allow the model to identify patterns more easily. Other techniques we incorporated:
 - Image augmentation
 - Freezing layers
+- Custom Classifier: Replace final layer for binary classification
 - Early stopping
 - Dropout regularization
 - Differential learning rates: higher LR for new layers, lower for pre-trained
