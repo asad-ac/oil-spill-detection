@@ -16,7 +16,7 @@ We believe <strong> computer vision technology </strong> can help mitigate wildl
 ## Key Results <!--- do not change this line -->
 
 1. Trained a ResNet-18 CNN using transfer learning on a **300-image marine oil spill dataset**. 
-2. Enhanced dataset diversity by applying image augmentation techniques (flips, color adjustments, resizing) to generate varied training samples from existing         images.
+2. Enhanced dataset diversity by applying image augmentation techniques (flips, color adjustments, resizing) to generate varied training samples from existing images.
 3. Achieved ~**86% validation accuracy**, correctly classifying most oil spill and non-oil spill images.
 
 ## Model Predicting User Uploaded Images
@@ -60,11 +60,11 @@ To accomplish this, we utilized the ResNet-18 model to classify images of water 
 - **Learning Rate Scheduler**: Adjusted LR during training for stability.
 
 ## Limitations & Future Work
-- Dataset Size & Diversity: Limited image diversity (mostly ocean scenes) could bias predictions.
-- Class Imbalance: Some oil spill images contain text overlays, which may influence results.
-- Future Improvements:
+- **Dataset Size & Diversity**: Limited image diversity (mostly ocean scenes) could bias predictions.
+- **Class Imbalance**: Some oil spill images contain text overlays, which may influence results.
+- **Future Improvements**:
   - Expand dataset with varied water body types and conditions.
-  - Revisit ResNet-50 again to improve accuracy.
+  - Revisit ResNet-50 to improve accuracy.
   - Deploy as a web app for real-time oil spill detection.
 
 ## Data Sources <!--- do not change this line -->
