@@ -13,11 +13,9 @@ Oil spills have continued to cause severe and lasting damage to the environment.
 
 ## Model Predicting User Uploaded Images
 
-<img width="65%" height="65%" alt="ResNet-18 Model Predicted no oil spill correctly while testing" src="https://github.com/user-attachments/assets/0d9f60fa-6b80-44bf-8b29-c41c578f019d" />
+<img width="70%" height="70%" alt="ResNet-18 Model Predicted no oil spill correctly while testing" src="https://github.com/user-attachments/assets/0d9f60fa-6b80-44bf-8b29-c41c578f019d" />
 
-#
-
-<img width="65%" height="65%" alt="ResNet-18 Model Predicted an oil spill correctly while testing" src="https://github.com/user-attachments/assets/30477691-a0a9-45a0-9456-1e43c18bc241" />
+<img width="70%" height="70%" alt="ResNet-18 Model Predicted an oil spill correctly while testing" src="https://github.com/user-attachments/assets/30477691-a0a9-45a0-9456-1e43c18bc241" />
 
 ## Methodologies <!--- do not change this line -->
 
