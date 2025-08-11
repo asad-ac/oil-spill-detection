@@ -31,8 +31,6 @@ We believe <strong> computer vision technology </strong> can help mitigate wildl
 
 > Predicted <em> Oil Spill </em> correctly
 
-<br>
-
 ## Confusion Matrix
 
 <img width="512" height="425" alt="image" src="https://github.com/user-attachments/assets/945e077f-7018-4c2f-8c02-46295c438d33" />
