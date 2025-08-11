@@ -1,15 +1,23 @@
 # Oil Spill Detection
 
-Trained a ResNet-18 convolutional neural network (CNN) to detect marine oil spills, implementing data augmentation techniques with TensorFlow.
+Trained a <strong> ResNet-18 convolutional neural network (CNN) </strong> to detect marine oil spills, implementing data augmentation techniques with TensorFlow.
 ## Problem Statement <!--- do not change this line -->
 
-Oil spills have continued to cause severe and lasting damage to the environment. For reference, in the Deepwater Horizon oil spill (the largest oil spill in history) 4.9 million barrels (210 million gallons) of oil were released in the Gulf of Mexico. This oil spill alone is estimated to have killed up to 5 trillion fish, 84 thousand birds, and at least 59 thousand sea turtles (National Oceanic and Atmospheric Administration). We believe computer vision technology can help mitigate wildlife damage by identifying oil spills in water body images, while also supporting tourism, shipping, and the fishing industry.
+Oil spills have continued to cause severe and lasting damage to the environment. For reference, in the Deepwater Horizon oil spill (the largest oil spill in history) **4.9 million barrels** (210 million gallons) of oil were released in the Gulf of Mexico.
+
+This disaster alone is estimated to have killed:
+- Up to 5 trillion fish
+ - 84,000 birds
+ - At least 59,000 sea turtles <br>
+_(Source: National Oceanic and Atmospheric Administration)_
+
+We believe <strong> computer vision technology </strong> can help mitigate wildlife damage by identifying oil spills in water body images, while also supporting tourism, shipping, and the fishing industry.
 
 ## Key Results <!--- do not change this line -->
 
 1. Used transfer learning to train a ResNet-18 CNN on a 300 image dataset to classify oil spill imagery.
 2. Applied image transformations (augmentation) to create varied training samples from existing images.
-3. Achieved ~86% validation accuracy after training.
+3. Achieved ~86% validation accuracy.
 
 ## Model Predicting User Uploaded Images
 
@@ -28,18 +36,23 @@ Oil spills have continued to cause severe and lasting damage to the environment.
 
 ## Methodologies <!--- do not change this line -->
 
-To accomplish this, we utilized the ResNet-18 model to classify images of water bodies with supervised learning. We designed our model to use image normalization to allow the model to identify patterns more easily. Other techniques we incorporated:
-- Image augmentation
-- Freezing layers
-- Custom Classifier: Replace final layer for binary classification
-- Early stopping
-- Dropout regularization
-- Differential learning rates: higher LR for new layers, lower for pre-trained
-- Learning rate scheduler
+To accomplish this, we utilized the ResNet-18 model to classify images of water bodies with supervised learning. Techniques that were incorporated:
+
+- **Transfer Learning**: Pretrained on ImageNet, replacing the final layer for binary classification.
+- **Image Normalization**: Improved feature extraction and pattern recognition.
+- **Image Augmentation**: Increased dataset variety via flips, color changes, and resizing.
+- **Freezing Layers**: Preserved pretrained knowledge while fine-tuning top layers.
+- **Dropout Regularization**: Reduced overfitting.
+- **Early Stopping**: Prevented unnecessary training once performance plateaued.
+- **Differential Learning Rates**: Higher LR for new layers, lower for pretrained ones.
+- **Learning Rate Scheduler**: Adjusted LR during training for stability.
 
 ## Data Sources <!--- do not change this line -->
 
-*Kaggle Datasets: [Marine Oil Spill Detection](https://www.kaggle.com/datasets/afzalofficial/marine-oil-spill-detection)*
+[Marine Oil Spill Detection Dataset](https://www.kaggle.com/datasets/afzalofficial/marine-oil-spill-detection) <br>
+<br>
+[NOAA statistics on Deepwater Horizon](https://oceanservice.noaa.gov/education/tutorial-coastal/oil-spills/os04.html?utm_source=chatgpt.com)
+
 
 ## Technologies Used <!--- do not change this line -->
 
