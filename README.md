@@ -53,7 +53,7 @@ To accomplish this, we utilized the ResNet-18 model to classify images of water 
 Techniques that were incorporated:
 
 - **Transfer Learning**: Pretrained on ImageNet, replacing the final layer for binary classification.
-- **Image Normalization**: Scaled images using ImageNet mean and standard deviation to match pretrained ResNet-18 input distribution.
+- **Image Normalization**: Scaled RGB values between 0 and 1, then applied ImageNet mean and standard deviation for each channel to match ResNet-18’s pretrained input distribution.
 - **Image Augmentation**: Increased dataset variety via flips, color changes, and resizing.
 - **Freezing Layers**: Preserved pretrained knowledge while fine-tuning top layers.
 - **Dropout Regularization**: Reduced overfitting.
