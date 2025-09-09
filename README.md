@@ -91,7 +91,22 @@ Techniques that were incorporated:
 - *Matplotlib*
 
 ## Authors <!--- do not change this line -->
+
 *This project was completed in collaboration with:*
 - *Jason Qin ([jq2406@nyu.edu](mailto:jq2406@nyu.edu))*
 - *Chelsea Nguyen ([chelsea.nguyen001@umb.edu](mailto:chelsea.nguyen001@umb.edu))*
 - *Xavier Rush ([xcrush@aggies.ncat.edu](mailto:xcrush@aggies.ncat.edu))*
+
+## Reach Out  
+
+Thanks for checking out this project!  
+
+If you’d like to talk about:  
+  - Improving the model or dataset  
+  - Building similar tools for environmental protection  
+  - Sharing feedback or ideas  
+
+Feel free to connect:  
+  - [LinkedIn](https://www.linkedin.com/in/asad-a-chaudhry/)  
+  - [Email](mailto:asadachau@gmail.com)  
+
