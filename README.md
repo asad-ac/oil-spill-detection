@@ -120,7 +120,7 @@ To interact with the oil spill detection model via the Streamlit app, follow the
 - *Chelsea Nguyen ([chelsea.nguyen001@umb.edu](mailto:chelsea.nguyen001@umb.edu))*
 - *Xavier Rush ([xcrush@aggies.ncat.edu](mailto:xcrush@aggies.ncat.edu))*
 
-## Reach Out  
+## Contact
 
 Thanks for checking out this project!  
 
