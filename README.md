@@ -122,7 +122,7 @@ To interact with the oil spill detection model via the Streamlit app, follow the
 
 ## Contact
 
-Thanks for checking out this project!  
+Thanks for checking out the project!  
 
 If you’d like to talk about:  
   - Improving the model or dataset  
