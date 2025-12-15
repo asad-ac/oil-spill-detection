@@ -17,7 +17,7 @@ We believe <strong> computer vision technology </strong> can help mitigate wildl
 
 1. Trained a ResNet-18 CNN using transfer learning on a **300-image marine oil spill dataset**. 
 2. Enhanced dataset diversity by applying image augmentation techniques (flips, color adjustments, resizing) to generate varied training samples from existing images.
-3. Achieved ~**86% validation accuracy**, correctly classifying most oil spill and non-oil spill images.
+3. Achieved ~**90% validation accuracy**, correctly classifying most oil spill and non-oil spill images.
 
 ## Model Predicting User Uploaded Images
 
