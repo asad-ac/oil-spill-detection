@@ -1,6 +1,5 @@
 # Oil Spill Detection
-
-Trained a <strong> ResNet-18 convolutional neural network (CNN) </strong> to detect marine oil spills, implementing data augmentation techniques with PyTorch.
+Trained a <strong> ResNet-18 convolutional neural network (CNN) </strong> to detect marine oil spills, applying data augmentation and transfer learning techniques using PyTorch.
 ## Problem Statement <!--- do not change this line -->
 
 Oil spills have continued to cause severe and lasting damage to the environment. For reference, in the Deepwater Horizon oil spill (the largest oil spill in history) **4.9 million barrels** (210 million gallons) of oil were released in the Gulf of Mexico.
